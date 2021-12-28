@@ -1,0 +1,3 @@
+[console_scripts]
+control = emo_control.emo_proto_subscriber:main
+

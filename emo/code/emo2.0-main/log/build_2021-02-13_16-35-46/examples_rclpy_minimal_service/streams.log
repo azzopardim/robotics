@@ -1,0 +1,41 @@
+[0.699s] Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/examples/rclpy/services/minimal_service': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_service/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_service build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_service/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_service --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_service/install.log --single-version-externally-managed
+[1.466s] running egg_info
+[1.474s] creating ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info
+[1.475s] writing ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/PKG-INFO
+[1.475s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/dependency_links.txt
+[1.476s] writing entry points to ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/entry_points.txt
+[1.476s] writing requirements to ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/requires.txt
+[1.476s] writing top-level names to ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/top_level.txt
+[1.476s] writing manifest file '../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[1.645s] reading manifest file '../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[1.648s] writing manifest file '../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[1.648s] running build
+[1.649s] running build_py
+[1.650s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_service/build
+[1.650s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_service/build/lib
+[1.650s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service
+[1.650s] copying examples_rclpy_minimal_service/service.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service
+[1.651s] copying examples_rclpy_minimal_service/service_member_function.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service
+[1.651s] copying examples_rclpy_minimal_service/__init__.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service
+[1.651s] running install
+[1.652s] running install_lib
+[1.655s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_service/lib/python3.8/site-packages/examples_rclpy_minimal_service
+[1.655s] copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service/service.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_service/lib/python3.8/site-packages/examples_rclpy_minimal_service
+[1.655s] copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service/service_member_function.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_service/lib/python3.8/site-packages/examples_rclpy_minimal_service
+[1.655s] copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service/__init__.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_service/lib/python3.8/site-packages/examples_rclpy_minimal_service
+[1.656s] byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_service/lib/python3.8/site-packages/examples_rclpy_minimal_service/service.py to service.cpython-38.pyc
+[1.659s] byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_service/lib/python3.8/site-packages/examples_rclpy_minimal_service/service_member_function.py to service_member_function.cpython-38.pyc
+[1.660s] byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_service/lib/python3.8/site-packages/examples_rclpy_minimal_service/__init__.py to __init__.cpython-38.pyc
+[1.660s] running install_data
+[1.661s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_service/share/ament_index
+[1.661s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_service/share/ament_index/resource_index
+[1.662s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_service/share/ament_index/resource_index/packages
+[1.662s] copying resource/examples_rclpy_minimal_service -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_service/share/ament_index/resource_index/packages
+[1.662s] copying package.xml -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_service/share/examples_rclpy_minimal_service
+[1.662s] running install_egg_info
+[1.665s] Copying ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_service/lib/python3.8/site-packages/examples_rclpy_minimal_service-0.9.4-py3.8.egg-info
+[1.667s] running install_scripts
+[1.716s] Installing service script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_service/lib/examples_rclpy_minimal_service
+[1.716s] Installing service_member_function script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_service/lib/examples_rclpy_minimal_service
+[1.717s] writing list of installed files to '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_service/install.log'
+[1.773s] Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/examples/rclpy/services/minimal_service' returned '0': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_service/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_service build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_service/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_service --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_service/install.log --single-version-externally-managed

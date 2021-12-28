@@ -1,0 +1,8 @@
+running egg_info
+creating ../../build/emo_proto/emo_proto.egg-info
+writing ../../build/emo_proto/emo_proto.egg-info/PKG-INFO
+writing dependency_links to ../../build/emo_proto/emo_proto.egg-info/dependency_links.txt
+writing entry points to ../../build/emo_proto/emo_proto.egg-info/entry_points.txt
+writing requirements to ../../build/emo_proto/emo_proto.egg-info/requires.txt
+writing top-level names to ../../build/emo_proto/emo_proto.egg-info/top_level.txt
+writing manifest file '../../build/emo_proto/emo_proto.egg-info/SOURCES.txt'

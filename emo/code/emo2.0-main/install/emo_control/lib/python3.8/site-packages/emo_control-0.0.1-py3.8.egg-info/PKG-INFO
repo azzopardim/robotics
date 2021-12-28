@@ -1,0 +1,17 @@
+Metadata-Version: 1.2
+Name: emo-control
+Version: 0.0.1
+Summary: EMO 2.0 prototyping package for testing concepts and constructs.
+Home-page: UNKNOWN
+Author: Michael Azzopardi
+Author-email: michael.azzopardi@creative-innovation.net
+Maintainer: Michael Azzopardi
+Maintainer-email: michael.azzopardi@creative-innovation.net
+License: Apache License 2.0
+Description: UNKNOWN
+Keywords: ROS,ROS2
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software Licencse
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development

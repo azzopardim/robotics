@@ -1,0 +1,33 @@
+[1.409s] Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/emo_drive': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/emo_drive build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_drive/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_drive/install.log --single-version-externally-managed
+[2.386s] running egg_info
+[2.388s] creating ../../build/emo_drive/emo_drive.egg-info
+[2.389s] writing ../../build/emo_drive/emo_drive.egg-info/PKG-INFO
+[2.391s] writing dependency_links to ../../build/emo_drive/emo_drive.egg-info/dependency_links.txt
+[2.391s] writing entry points to ../../build/emo_drive/emo_drive.egg-info/entry_points.txt
+[2.392s] writing requirements to ../../build/emo_drive/emo_drive.egg-info/requires.txt
+[2.393s] writing top-level names to ../../build/emo_drive/emo_drive.egg-info/top_level.txt
+[2.394s] writing manifest file '../../build/emo_drive/emo_drive.egg-info/SOURCES.txt'
+[2.482s] reading manifest file '../../build/emo_drive/emo_drive.egg-info/SOURCES.txt'
+[2.484s] writing manifest file '../../build/emo_drive/emo_drive.egg-info/SOURCES.txt'
+[2.484s] running build
+[2.484s] running build_py
+[2.485s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_drive/build
+[2.485s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_drive/build/lib
+[2.485s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_drive/build/lib/emo_drive
+[2.485s] copying emo_drive/__init__.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_drive/build/lib/emo_drive
+[2.485s] running install
+[2.486s] running install_lib
+[2.488s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive/lib/python3.8/site-packages/emo_drive
+[2.488s] copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_drive/build/lib/emo_drive/__init__.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive/lib/python3.8/site-packages/emo_drive
+[2.488s] byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive/lib/python3.8/site-packages/emo_drive/__init__.py to __init__.cpython-38.pyc
+[2.491s] running install_data
+[2.500s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive/share/ament_index
+[2.500s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive/share/ament_index/resource_index
+[2.500s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive/share/ament_index/resource_index/packages
+[2.500s] copying resource/emo_drive -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive/share/ament_index/resource_index/packages
+[2.501s] copying package.xml -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive/share/emo_drive
+[2.501s] running install_egg_info
+[2.501s] Copying ../../build/emo_drive/emo_drive.egg-info to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive/lib/python3.8/site-packages/emo_drive-0.0.0-py3.8.egg-info
+[2.502s] running install_scripts
+[2.561s] writing list of installed files to '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_drive/install.log'
+[2.965s] Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/emo_drive' returned '0': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/emo_drive build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_drive/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_drive/install.log --single-version-externally-managed

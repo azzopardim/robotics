@@ -1,0 +1,8 @@
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent/CMakeFiles/install/strip.dir
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent/CMakeFiles/install/local.dir
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent/CMakeFiles/install.dir
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent/CMakeFiles/list_install_components.dir
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent/CMakeFiles/rebuild_cache.dir
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent/CMakeFiles/edit_cache.dir
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent/CMakeFiles/MicroXRCEAgent.dir
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent/CMakeFiles/microxrcedds_agent.dir

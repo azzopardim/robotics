@@ -1,0 +1,53 @@
+[1.079s] Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/examples/rclpy/actions/minimal_action_server': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_server build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_server/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed
+[1.621s] running egg_info
+[1.630s] creating ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info
+[1.630s] writing ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/PKG-INFO
+[1.631s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/dependency_links.txt
+[1.631s] writing entry points to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/entry_points.txt
+[1.631s] writing requirements to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/requires.txt
+[1.631s] writing top-level names to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/top_level.txt
+[1.650s] writing manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[1.732s] reading manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[1.732s] writing manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[1.732s] running build
+[1.733s] running build_py
+[1.733s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_server/build
+[1.733s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_server/build/lib
+[1.733s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[1.733s] copying examples_rclpy_minimal_action_server/server.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[1.733s] copying examples_rclpy_minimal_action_server/server_not_composable.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[1.734s] copying examples_rclpy_minimal_action_server/server_single_goal.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[1.734s] copying examples_rclpy_minimal_action_server/server_defer.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[1.743s] copying examples_rclpy_minimal_action_server/server_queue_goals.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[1.743s] copying examples_rclpy_minimal_action_server/__init__.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[1.743s] running install
+[1.744s] running install_lib
+[1.744s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/python3.8/site-packages/examples_rclpy_minimal_action_server
+[1.744s] copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/python3.8/site-packages/examples_rclpy_minimal_action_server
+[1.749s] copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_not_composable.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/python3.8/site-packages/examples_rclpy_minimal_action_server
+[1.749s] copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_single_goal.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/python3.8/site-packages/examples_rclpy_minimal_action_server
+[1.750s] copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_defer.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/python3.8/site-packages/examples_rclpy_minimal_action_server
+[1.750s] copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_queue_goals.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/python3.8/site-packages/examples_rclpy_minimal_action_server
+[1.750s] copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/__init__.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/python3.8/site-packages/examples_rclpy_minimal_action_server
+[1.753s] byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/python3.8/site-packages/examples_rclpy_minimal_action_server/server.py to server.cpython-38.pyc
+[1.753s] byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/python3.8/site-packages/examples_rclpy_minimal_action_server/server_not_composable.py to server_not_composable.cpython-38.pyc
+[1.753s] byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/python3.8/site-packages/examples_rclpy_minimal_action_server/server_single_goal.py to server_single_goal.cpython-38.pyc
+[1.753s] byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/python3.8/site-packages/examples_rclpy_minimal_action_server/server_defer.py to server_defer.cpython-38.pyc
+[1.754s] byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/python3.8/site-packages/examples_rclpy_minimal_action_server/server_queue_goals.py to server_queue_goals.cpython-38.pyc
+[1.754s] byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/python3.8/site-packages/examples_rclpy_minimal_action_server/__init__.py to __init__.cpython-38.pyc
+[1.754s] running install_data
+[1.754s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/share/ament_index
+[1.754s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index
+[1.754s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index/packages
+[1.754s] copying resource/examples_rclpy_minimal_action_server -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index/packages
+[1.755s] copying package.xml -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/share/examples_rclpy_minimal_action_server
+[1.755s] running install_egg_info
+[1.755s] Copying ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/python3.8/site-packages/examples_rclpy_minimal_action_server-0.9.4-py3.8.egg-info
+[1.772s] running install_scripts
+[1.819s] Installing server script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[1.820s] Installing server_defer script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[1.820s] Installing server_not_composable script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[1.821s] Installing server_queue_goals script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[1.821s] Installing server_single_goal script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[1.823s] writing list of installed files to '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_server/install.log'
+[1.897s] Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/examples/rclpy/actions/minimal_action_server' returned '0': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_server build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_server/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_server --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed

@@ -1,0 +1,11 @@
+[1.176s] Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/emo_control': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_proto/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/emo_proto build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_proto/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_proto --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_proto/install.log --single-version-externally-managed
+[2.844s] running egg_info
+[2.852s] creating ../../build/emo_proto/emo_proto.egg-info
+[2.858s] writing ../../build/emo_proto/emo_proto.egg-info/PKG-INFO
+[2.861s] writing dependency_links to ../../build/emo_proto/emo_proto.egg-info/dependency_links.txt
+[2.863s] writing entry points to ../../build/emo_proto/emo_proto.egg-info/entry_points.txt
+[2.864s] writing requirements to ../../build/emo_proto/emo_proto.egg-info/requires.txt
+[2.864s] writing top-level names to ../../build/emo_proto/emo_proto.egg-info/top_level.txt
+[2.872s] writing manifest file '../../build/emo_proto/emo_proto.egg-info/SOURCES.txt'
+[3.041s] error: package directory 'emo_proto' does not exist
+[3.136s] Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/emo_control' returned '1': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_proto/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/emo_proto build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_proto/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_proto --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_proto/install.log --single-version-externally-managed

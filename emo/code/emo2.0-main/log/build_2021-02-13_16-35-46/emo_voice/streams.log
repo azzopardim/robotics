@@ -1,0 +1,33 @@
+[0.580s] Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/emo_voice': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_voice/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/emo_voice build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_voice/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_voice --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_voice/install.log --single-version-externally-managed
+[1.280s] running egg_info
+[1.282s] creating ../../build/emo_voice/emo_voice.egg-info
+[1.283s] writing ../../build/emo_voice/emo_voice.egg-info/PKG-INFO
+[1.284s] writing dependency_links to ../../build/emo_voice/emo_voice.egg-info/dependency_links.txt
+[1.284s] writing entry points to ../../build/emo_voice/emo_voice.egg-info/entry_points.txt
+[1.285s] writing requirements to ../../build/emo_voice/emo_voice.egg-info/requires.txt
+[1.285s] writing top-level names to ../../build/emo_voice/emo_voice.egg-info/top_level.txt
+[1.288s] writing manifest file '../../build/emo_voice/emo_voice.egg-info/SOURCES.txt'
+[1.344s] reading manifest file '../../build/emo_voice/emo_voice.egg-info/SOURCES.txt'
+[1.346s] writing manifest file '../../build/emo_voice/emo_voice.egg-info/SOURCES.txt'
+[1.346s] running build
+[1.347s] running build_py
+[1.347s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_voice/build
+[1.348s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_voice/build/lib
+[1.348s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_voice/build/lib/emo_voice
+[1.348s] copying emo_voice/__init__.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_voice/build/lib/emo_voice
+[1.349s] running install
+[1.351s] running install_lib
+[1.353s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_voice/lib/python3.8/site-packages/emo_voice
+[1.355s] copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_voice/build/lib/emo_voice/__init__.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_voice/lib/python3.8/site-packages/emo_voice
+[1.357s] byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_voice/lib/python3.8/site-packages/emo_voice/__init__.py to __init__.cpython-38.pyc
+[1.360s] running install_data
+[1.361s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_voice/share/ament_index
+[1.362s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_voice/share/ament_index/resource_index
+[1.362s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_voice/share/ament_index/resource_index/packages
+[1.362s] copying resource/emo_voice -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_voice/share/ament_index/resource_index/packages
+[1.363s] copying package.xml -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_voice/share/emo_voice
+[1.363s] running install_egg_info
+[1.368s] Copying ../../build/emo_voice/emo_voice.egg-info to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_voice/lib/python3.8/site-packages/emo_voice-0.0.0-py3.8.egg-info
+[1.371s] running install_scripts
+[1.410s] writing list of installed files to '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_voice/install.log'
+[1.492s] Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/emo_voice' returned '0': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_voice/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/emo_voice build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_voice/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_voice --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_voice/install.log --single-version-externally-managed

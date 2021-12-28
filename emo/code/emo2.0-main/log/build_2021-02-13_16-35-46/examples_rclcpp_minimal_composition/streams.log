@@ -1,0 +1,98 @@
+[0.023s] Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_composition': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /media/michael/bach_SD_128GB/emo_ws/emo2.0/src/examples/rclcpp/composition/minimal_composition -DCMAKE_INSTALL_PREFIX=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition
+[0.176s] -- The C compiler identification is GNU 9.3.0
+[0.295s] -- The CXX compiler identification is GNU 9.3.0
+[0.305s] -- Check for working C compiler: /usr/bin/cc
+[0.545s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.548s] -- Detecting C compiler ABI info
+[0.771s] -- Detecting C compiler ABI info - done
+[0.807s] -- Detecting C compile features
+[0.809s] -- Detecting C compile features - done
+[0.816s] -- Check for working CXX compiler: /usr/bin/c++
+[1.050s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.051s] -- Detecting CXX compiler ABI info
+[1.232s] -- Detecting CXX compiler ABI info - done
+[1.279s] -- Detecting CXX compile features
+[1.281s] -- Detecting CXX compile features - done
+[1.290s] -- Found ament_cmake: 0.9.8 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.351s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.5", minimum required is "3") 
+[1.351s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.901s] -- Found rclcpp: 2.3.0 (/opt/ros/foxy/share/rclcpp/cmake)
+[1.987s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.995s] -- Found rosidl_adapter: 1.2.0 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[2.181s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[2.245s] -- Found FastRTPS: /opt/ros/foxy/include  
+[2.424s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.563s] -- Found rmw_implementation_cmake: 1.0.2 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[2.563s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.565s] -- Looking for pthread.h
+[2.737s] -- Looking for pthread.h - found
+[2.738s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.945s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[2.946s] -- Looking for pthread_create in pthreads
+[3.119s] -- Looking for pthread_create in pthreads - not found
+[3.125s] -- Looking for pthread_create in pthread
+[3.264s] -- Looking for pthread_create in pthread - found
+[3.267s] -- Found Threads: TRUE  
+[3.879s] -- Found rclcpp_components: 2.3.0 (/opt/ros/foxy/share/rclcpp_components/cmake)
+[4.324s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[4.711s] -- Added test 'copyright' to check source files copyright and LICENSE
+[4.715s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.716s] -- Configured cppcheck include dirs: /media/michael/bach_SD_128GB/emo_ws/emo2.0/src/examples/rclcpp/composition/minimal_composition/include
+[4.716s] -- Configured cppcheck exclude dirs and/or files: 
+[4.719s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[4.719s] -- Configured cpplint exclude dirs and/or files: 
+[4.721s] -- Added test 'lint_cmake' to check CMake code style
+[4.727s] -- Added test 'uncrustify' to check C / C++ code style
+[4.727s] -- Configured uncrustify additional arguments: 
+[4.731s] -- Added test 'xmllint' to check XML markup files
+[4.751s] -- Configuring done
+[4.897s] -- Generating done
+[4.935s] -- Build files have been written to: /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_composition
+[4.987s] Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_composition' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /media/michael/bach_SD_128GB/emo_ws/emo2.0/src/examples/rclcpp/composition/minimal_composition -DCMAKE_INSTALL_PREFIX=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition
+[4.990s] Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_composition': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_composition -- -j4 -l4
+[5.238s] [35m[1mScanning dependencies of target composition_nodes[0m
+[5.426s] [ 11%] [32mBuilding CXX object CMakeFiles/composition_nodes.dir/src/publisher_node.cpp.o[0m
+[5.455s] [ 22%] [32mBuilding CXX object CMakeFiles/composition_nodes.dir/src/subscriber_node.cpp.o[0m
+[27.877s] [ 33%] [32m[1mLinking CXX shared library libcomposition_nodes.so[0m
+[28.597s] [ 33%] Built target composition_nodes
+[28.616s] [35m[1mScanning dependencies of target composition_composed[0m
+[28.691s] [ 44%] [32mBuilding CXX object CMakeFiles/composition_composed.dir/src/composed.cpp.o[0m
+[32.995s] [ 55%] [32m[1mLinking CXX executable composition_composed[0m
+[33.650s] [ 55%] Built target composition_composed
+[33.682s] [35m[1mScanning dependencies of target composition_publisher[0m
+[33.896s] [ 66%] [32mBuilding CXX object CMakeFiles/composition_publisher.dir/src/standalone_publisher.cpp.o[0m
+[38.010s] [ 77%] [32m[1mLinking CXX executable composition_publisher[0m
+[38.448s] [ 77%] Built target composition_publisher
+[38.475s] [35m[1mScanning dependencies of target composition_subscriber[0m
+[38.569s] [ 88%] [32mBuilding CXX object CMakeFiles/composition_subscriber.dir/src/standalone_subscriber.cpp.o[0m
+[43.372s] [100%] [32m[1mLinking CXX executable composition_subscriber[0m
+[43.966s] [100%] Built target composition_subscriber
+[44.027s] Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_composition' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_composition -- -j4 -l4
+[44.300s] Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_composition': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_composition
+[44.346s] -- Install configuration: ""
+[44.347s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/library_path.sh
+[44.347s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/library_path.dsv
+[44.347s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/lib/libcomposition_nodes.so
+[44.349s] -- Set runtime path of "/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/lib/libcomposition_nodes.so" to ""
+[44.350s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_publisher
+[44.351s] -- Set runtime path of "/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_publisher" to ""
+[44.352s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_subscriber
+[44.353s] -- Set runtime path of "/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_subscriber" to ""
+[44.354s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_composed
+[44.355s] -- Set runtime path of "/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_composed" to ""
+[44.356s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_composition
+[44.357s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_composition
+[44.357s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/ament_prefix_path.sh
+[44.358s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/ament_prefix_path.dsv
+[44.359s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/path.sh
+[44.359s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/path.dsv
+[44.360s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.bash
+[44.361s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.sh
+[44.361s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.zsh
+[44.362s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.dsv
+[44.363s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/package.dsv
+[44.364s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/share/ament_index/resource_index/packages/examples_rclcpp_minimal_composition
+[44.364s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/cmake/examples_rclcpp_minimal_compositionConfig.cmake
+[44.365s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/cmake/examples_rclcpp_minimal_compositionConfig-version.cmake
+[44.366s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/package.xml
+[44.377s] Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_composition' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_composition

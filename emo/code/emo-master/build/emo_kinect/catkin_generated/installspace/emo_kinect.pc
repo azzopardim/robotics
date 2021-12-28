@@ -1,0 +1,8 @@
+prefix=/sd/projects/emo1.0/install
+
+Name: emo_kinect
+Description: Description of emo_kinect
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,84 @@
+[0.461s] Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_action_server': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /media/michael/bach_SD_128GB/emo_ws/emo2.0/src/examples/rclcpp/actions/minimal_action_server -DCMAKE_INSTALL_PREFIX=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server
+[0.718s] -- The C compiler identification is GNU 9.3.0
+[1.008s] -- The CXX compiler identification is GNU 9.3.0
+[1.018s] -- Check for working C compiler: /usr/bin/cc
+[1.197s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.199s] -- Detecting C compiler ABI info
+[1.364s] -- Detecting C compiler ABI info - done
+[1.431s] -- Detecting C compile features
+[1.432s] -- Detecting C compile features - done
+[1.443s] -- Check for working CXX compiler: /usr/bin/c++
+[1.711s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.713s] -- Detecting CXX compiler ABI info
+[1.995s] -- Detecting CXX compiler ABI info - done
+[2.044s] -- Detecting CXX compile features
+[2.049s] -- Detecting CXX compile features - done
+[2.053s] -- Found ament_cmake: 0.9.8 (/opt/ros/foxy/share/ament_cmake/cmake)
+[2.105s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.5", minimum required is "3") 
+[2.105s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.550s] -- Found example_interfaces: 0.9.0 (/opt/ros/foxy/share/example_interfaces/cmake)
+[2.609s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.638s] -- Found rosidl_adapter: 1.2.0 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[2.925s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[2.991s] -- Found FastRTPS: /opt/ros/foxy/include  
+[3.162s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.530s] -- Found rclcpp: 2.3.0 (/opt/ros/foxy/share/rclcpp/cmake)
+[3.642s] -- Found rmw_implementation_cmake: 1.0.2 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[3.644s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.646s] -- Looking for pthread.h
+[3.816s] -- Looking for pthread.h - found
+[3.817s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.963s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[3.964s] -- Looking for pthread_create in pthreads
+[4.107s] -- Looking for pthread_create in pthreads - not found
+[4.108s] -- Looking for pthread_create in pthread
+[4.255s] -- Looking for pthread_create in pthread - found
+[4.257s] -- Found Threads: TRUE  
+[4.600s] -- Found rclcpp_action: 2.3.0 (/opt/ros/foxy/share/rclcpp_action/cmake)
+[4.689s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[4.847s] -- Added test 'copyright' to check source files copyright and LICENSE
+[4.849s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.850s] -- Configured cppcheck include dirs: 
+[4.850s] -- Configured cppcheck exclude dirs and/or files: 
+[4.852s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[4.852s] -- Configured cpplint exclude dirs and/or files: 
+[4.853s] -- Added test 'lint_cmake' to check CMake code style
+[4.855s] -- Added test 'uncrustify' to check C / C++ code style
+[4.856s] -- Configured uncrustify additional arguments: 
+[4.857s] -- Added test 'xmllint' to check XML markup files
+[4.863s] -- Configuring done
+[4.913s] -- Generating done
+[4.917s] -- Build files have been written to: /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_action_server
+[4.947s] Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_action_server' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /media/michael/bach_SD_128GB/emo_ws/emo2.0/src/examples/rclcpp/actions/minimal_action_server -DCMAKE_INSTALL_PREFIX=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server
+[4.952s] Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_action_server': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_action_server -- -j4 -l4
+[5.122s] [35m[1mScanning dependencies of target action_server_member_functions[0m
+[5.158s] [35m[1mScanning dependencies of target action_server_not_composable[0m
+[5.288s] [ 25%] [32mBuilding CXX object CMakeFiles/action_server_not_composable.dir/not_composable.cpp.o[0m
+[5.330s] [ 50%] [32mBuilding CXX object CMakeFiles/action_server_member_functions.dir/member_functions.cpp.o[0m
+[20.122s] [ 75%] [32m[1mLinking CXX executable action_server_not_composable[0m
+[21.037s] [ 75%] Built target action_server_not_composable
+[21.605s] [100%] [32m[1mLinking CXX executable action_server_member_functions[0m
+[22.751s] [100%] Built target action_server_member_functions
+[22.819s] Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_action_server' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_action_server -- -j4 -l4
+[23.214s] Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_action_server': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_action_server
+[23.254s] -- Install configuration: ""
+[23.256s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server/lib/examples_rclcpp_minimal_action_server/action_server_not_composable
+[23.257s] -- Set runtime path of "/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server/lib/examples_rclcpp_minimal_action_server/action_server_not_composable" to ""
+[23.258s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server/lib/examples_rclcpp_minimal_action_server/action_server_member_functions
+[23.261s] -- Set runtime path of "/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server/lib/examples_rclcpp_minimal_action_server/action_server_member_functions" to ""
+[23.263s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_action_server
+[23.265s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_action_server
+[23.265s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/environment/ament_prefix_path.sh
+[23.266s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/environment/ament_prefix_path.dsv
+[23.268s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/environment/path.sh
+[23.269s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/environment/path.dsv
+[23.270s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/local_setup.bash
+[23.272s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/local_setup.sh
+[23.273s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/local_setup.zsh
+[23.275s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/local_setup.dsv
+[23.275s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/package.dsv
+[23.276s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server/share/ament_index/resource_index/packages/examples_rclcpp_minimal_action_server
+[23.278s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/cmake/examples_rclcpp_minimal_action_serverConfig.cmake
+[23.279s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/cmake/examples_rclcpp_minimal_action_serverConfig-version.cmake
+[23.279s] -- Installing: /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/package.xml
+[23.286s] Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_action_server' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_action_server

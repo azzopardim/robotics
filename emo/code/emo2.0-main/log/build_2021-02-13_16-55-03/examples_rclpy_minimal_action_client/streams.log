@@ -1,0 +1,23 @@
+[0.470s] Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/examples/rclpy/actions/minimal_action_client': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_client/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_client build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_client/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_client --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_client/install.log --single-version-externally-managed
+[0.818s] running egg_info
+[0.819s] writing ../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/PKG-INFO
+[0.819s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/dependency_links.txt
+[0.819s] writing entry points to ../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/entry_points.txt
+[0.820s] writing requirements to ../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/requires.txt
+[0.820s] writing top-level names to ../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/top_level.txt
+[0.863s] reading manifest file '../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/SOURCES.txt'
+[0.865s] writing manifest file '../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/SOURCES.txt'
+[0.865s] running build
+[0.865s] running build_py
+[0.865s] running install
+[0.867s] running install_lib
+[0.870s] running install_data
+[0.871s] running install_egg_info
+[0.874s] removing '/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_client/lib/python3.8/site-packages/examples_rclpy_minimal_action_client-0.9.4-py3.8.egg-info' (and everything under it)
+[0.874s] Copying ../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_client/lib/python3.8/site-packages/examples_rclpy_minimal_action_client-0.9.4-py3.8.egg-info
+[0.876s] running install_scripts
+[0.902s] Installing client script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[0.902s] Installing client_cancel script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[0.903s] Installing client_not_composable script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[0.903s] writing list of installed files to '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_client/install.log'
+[1.269s] Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/examples/rclpy/actions/minimal_action_client' returned '0': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_client/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_client build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_client/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_action_client --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_action_client/install.log --single-version-externally-managed

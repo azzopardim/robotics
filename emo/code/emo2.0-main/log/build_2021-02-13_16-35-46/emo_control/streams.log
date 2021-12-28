@@ -1,0 +1,22 @@
+[1.217s] Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/emo_control': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/emo_control build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_control/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_control/install.log --single-version-externally-managed
+[1.673s] running egg_info
+[1.674s] writing ../../build/emo_control/emo_control.egg-info/PKG-INFO
+[1.675s] writing dependency_links to ../../build/emo_control/emo_control.egg-info/dependency_links.txt
+[1.675s] writing entry points to ../../build/emo_control/emo_control.egg-info/entry_points.txt
+[1.676s] writing requirements to ../../build/emo_control/emo_control.egg-info/requires.txt
+[1.676s] writing top-level names to ../../build/emo_control/emo_control.egg-info/top_level.txt
+[1.758s] reading manifest file '../../build/emo_control/emo_control.egg-info/SOURCES.txt'
+[1.761s] writing manifest file '../../build/emo_control/emo_control.egg-info/SOURCES.txt'
+[1.761s] running build
+[1.761s] running build_py
+[1.762s] running install
+[1.763s] running install_lib
+[1.767s] running install_data
+[1.768s] copying resource/emo_control -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/share/ament_index/resource_index/packages
+[1.768s] copying package.xml -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/share/emo_control
+[1.768s] running install_egg_info
+[1.773s] Copying ../../build/emo_control/emo_control.egg-info to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/lib/python3.8/site-packages/emo_control-0.0.1-py3.8.egg-info
+[1.776s] running install_scripts
+[1.840s] Installing control script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/lib/emo_proto
+[1.840s] writing list of installed files to '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_control/install.log'
+[2.214s] Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/emo_control' returned '0': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/emo_control build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_control/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_control/install.log --single-version-externally-managed

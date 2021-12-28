@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/emo_drive/emo_drive.egg-info
+writing ../../build/emo_drive/emo_drive.egg-info/PKG-INFO
+writing dependency_links to ../../build/emo_drive/emo_drive.egg-info/dependency_links.txt
+writing entry points to ../../build/emo_drive/emo_drive.egg-info/entry_points.txt
+writing requirements to ../../build/emo_drive/emo_drive.egg-info/requires.txt
+writing top-level names to ../../build/emo_drive/emo_drive.egg-info/top_level.txt
+writing manifest file '../../build/emo_drive/emo_drive.egg-info/SOURCES.txt'
+reading manifest file '../../build/emo_drive/emo_drive.egg-info/SOURCES.txt'
+writing manifest file '../../build/emo_drive/emo_drive.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_drive/build
+creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_drive/build/lib
+creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_drive/build/lib/emo_drive
+copying emo_drive/__init__.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_drive/build/lib/emo_drive
+running install
+running install_lib
+creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive/lib/python3.8/site-packages/emo_drive
+copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_drive/build/lib/emo_drive/__init__.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive/lib/python3.8/site-packages/emo_drive
+byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive/lib/python3.8/site-packages/emo_drive/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive/share/ament_index
+creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive/share/ament_index/resource_index
+creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive/share/ament_index/resource_index/packages
+copying resource/emo_drive -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive/share/ament_index/resource_index/packages
+copying package.xml -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive/share/emo_drive
+running install_egg_info
+Copying ../../build/emo_drive/emo_drive.egg-info to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_drive/lib/python3.8/site-packages/emo_drive-0.0.0-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_drive/install.log'

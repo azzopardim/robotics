@@ -1,0 +1,16 @@
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_client/lib/examples_rclcpp_minimal_client/client_main
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_client/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_client
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_client/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_client
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/environment/ament_prefix_path.sh
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/environment/ament_prefix_path.dsv
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/environment/path.sh
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/environment/path.dsv
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/local_setup.bash
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/local_setup.sh
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/local_setup.zsh
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/local_setup.dsv
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/package.dsv
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_client/share/ament_index/resource_index/packages/examples_rclcpp_minimal_client
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/cmake/examples_rclcpp_minimal_clientConfig.cmake
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/cmake/examples_rclcpp_minimal_clientConfig-version.cmake
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/package.xml

@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+../../build/emo_proximity/emo_proximity.egg-info/PKG-INFO
+../../build/emo_proximity/emo_proximity.egg-info/SOURCES.txt
+../../build/emo_proximity/emo_proximity.egg-info/dependency_links.txt
+../../build/emo_proximity/emo_proximity.egg-info/entry_points.txt
+../../build/emo_proximity/emo_proximity.egg-info/requires.txt
+../../build/emo_proximity/emo_proximity.egg-info/top_level.txt
+../../build/emo_proximity/emo_proximity.egg-info/zip-safe
+emo_proximity/__init__.py
+resource/emo_proximity
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

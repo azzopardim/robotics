@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent/CMakeFiles/sanitizers"
+		},
+		{
+			"file" : "/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent/CMakeFiles/sanitizers.rule"
+		},
+		{
+			"file" : "/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent/CMakeFiles/sanitizers-complete.rule"
+		},
+		{
+			"file" : "/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent/sanitizers/src/sanitizers-stamp/sanitizers-install.rule"
+		},
+		{
+			"file" : "/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent/sanitizers/src/sanitizers-stamp/sanitizers-mkdir.rule"
+		},
+		{
+			"file" : "/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent/sanitizers/src/sanitizers-stamp/sanitizers-download.rule"
+		},
+		{
+			"file" : "/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent/sanitizers/src/sanitizers-stamp/sanitizers-update.rule"
+		},
+		{
+			"file" : "/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent/sanitizers/src/sanitizers-stamp/sanitizers-patch.rule"
+		},
+		{
+			"file" : "/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent/sanitizers/src/sanitizers-stamp/sanitizers-configure.rule"
+		},
+		{
+			"file" : "/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent/sanitizers/src/sanitizers-stamp/sanitizers-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sanitizers"
+		],
+		"name" : "sanitizers"
+	}
+}

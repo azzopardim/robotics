@@ -1,0 +1,8 @@
+prefix=/sd/projects/emo1.0/install
+
+Name: emo_audio
+Description: Description of emo_audio
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

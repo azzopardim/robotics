@@ -1,0 +1,10 @@
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_service/CMakeFiles/install/strip.dir
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_service/CMakeFiles/install/local.dir
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_service/CMakeFiles/install.dir
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_service/CMakeFiles/list_install_components.dir
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_service/CMakeFiles/rebuild_cache.dir
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_service/CMakeFiles/service_main.dir
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_service/CMakeFiles/edit_cache.dir
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_service/CMakeFiles/test.dir
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_service/CMakeFiles/examples_rclcpp_minimal_service_uninstall.dir
+/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclcpp_minimal_service/CMakeFiles/uninstall.dir

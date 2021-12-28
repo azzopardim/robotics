@@ -1,0 +1,35 @@
+[1.024s] Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/emo_proto': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_proto/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/emo_proto build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_proto/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_proto --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_proto/install.log --single-version-externally-managed
+[1.507s] running egg_info
+[1.507s] writing ../../build/emo_proto/emo_proto.egg-info/PKG-INFO
+[1.508s] writing dependency_links to ../../build/emo_proto/emo_proto.egg-info/dependency_links.txt
+[1.508s] writing entry points to ../../build/emo_proto/emo_proto.egg-info/entry_points.txt
+[1.508s] writing requirements to ../../build/emo_proto/emo_proto.egg-info/requires.txt
+[1.508s] writing top-level names to ../../build/emo_proto/emo_proto.egg-info/top_level.txt
+[1.574s] reading manifest file '../../build/emo_proto/emo_proto.egg-info/SOURCES.txt'
+[1.575s] writing manifest file '../../build/emo_proto/emo_proto.egg-info/SOURCES.txt'
+[1.576s] running build
+[1.577s] running build_py
+[1.577s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_proto/build
+[1.577s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_proto/build/lib
+[1.577s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_proto/build/lib/emo_proto
+[1.577s] copying emo_proto/__init__.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_proto/build/lib/emo_proto
+[1.578s] copying emo_proto/emo_proto_publisher.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_proto/build/lib/emo_proto
+[1.578s] running install
+[1.578s] running install_lib
+[1.580s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_proto/lib/python3.8/site-packages/emo_proto
+[1.580s] copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_proto/build/lib/emo_proto/__init__.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_proto/lib/python3.8/site-packages/emo_proto
+[1.580s] copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_proto/build/lib/emo_proto/emo_proto_publisher.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_proto/lib/python3.8/site-packages/emo_proto
+[1.581s] byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_proto/lib/python3.8/site-packages/emo_proto/__init__.py to __init__.cpython-38.pyc
+[1.583s] byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_proto/lib/python3.8/site-packages/emo_proto/emo_proto_publisher.py to emo_proto_publisher.cpython-38.pyc
+[1.584s] running install_data
+[1.585s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_proto/share/ament_index
+[1.585s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_proto/share/ament_index/resource_index
+[1.585s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_proto/share/ament_index/resource_index/packages
+[1.585s] copying resource/emo_proto -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_proto/share/ament_index/resource_index/packages
+[1.589s] copying package.xml -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_proto/share/emo_proto
+[1.590s] running install_egg_info
+[1.590s] Copying ../../build/emo_proto/emo_proto.egg-info to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_proto/lib/python3.8/site-packages/emo_proto-0.0.1-py3.8.egg-info
+[1.590s] running install_scripts
+[1.627s] Installing proto script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_proto/lib/emo_proto
+[1.627s] writing list of installed files to '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_proto/install.log'
+[1.720s] Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/emo_proto' returned '0': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_proto/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/emo_proto build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_proto/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_proto --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_proto/install.log --single-version-externally-managed

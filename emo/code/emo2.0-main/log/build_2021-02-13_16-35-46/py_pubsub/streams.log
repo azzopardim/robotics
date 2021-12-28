@@ -1,0 +1,41 @@
+[0.598s] Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/py_pubsub': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/py_pubsub/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/py_pubsub --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/py_pubsub/install.log --single-version-externally-managed
+[1.283s] running egg_info
+[1.284s] creating ../../build/py_pubsub/py_pubsub.egg-info
+[1.285s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[1.286s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[1.286s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[1.287s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[1.288s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[1.291s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.373s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.376s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.377s] running build
+[1.377s] running build_py
+[1.379s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/py_pubsub/build
+[1.379s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/py_pubsub/build/lib
+[1.379s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/py_pubsub/build/lib/py_pubsub
+[1.380s] copying py_pubsub/publisher_member_function.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/py_pubsub/build/lib/py_pubsub
+[1.381s] copying py_pubsub/subscriber_member_function.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/py_pubsub/build/lib/py_pubsub
+[1.381s] copying py_pubsub/__init__.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/py_pubsub/build/lib/py_pubsub
+[1.382s] running install
+[1.384s] running install_lib
+[1.387s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[1.389s] copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/py_pubsub/build/lib/py_pubsub/publisher_member_function.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[1.390s] copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/py_pubsub/build/lib/py_pubsub/subscriber_member_function.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[1.390s] copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/py_pubsub/build/lib/py_pubsub/__init__.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[1.392s] byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/publisher_member_function.py to publisher_member_function.cpython-38.pyc
+[1.405s] byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/subscriber_member_function.py to subscriber_member_function.cpython-38.pyc
+[1.405s] byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/__init__.py to __init__.cpython-38.pyc
+[1.406s] running install_data
+[1.406s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/py_pubsub/share/ament_index
+[1.406s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/py_pubsub/share/ament_index/resource_index
+[1.407s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/py_pubsub/share/ament_index/resource_index/packages
+[1.407s] copying resource/py_pubsub -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/py_pubsub/share/ament_index/resource_index/packages
+[1.407s] copying package.xml -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/py_pubsub/share/py_pubsub
+[1.408s] running install_egg_info
+[1.408s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info
+[1.412s] running install_scripts
+[1.451s] Installing listener script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/py_pubsub/lib/py_pubsub
+[1.452s] Installing talker script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/py_pubsub/lib/py_pubsub
+[1.453s] writing list of installed files to '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/py_pubsub/install.log'
+[1.504s] Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/py_pubsub' returned '0': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/py_pubsub/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/py_pubsub --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/py_pubsub/install.log --single-version-externally-managed

@@ -1,0 +1,32 @@
+[1.631s] Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/emo_vision': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_vision/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/emo_vision build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_vision/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_vision --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_vision/install.log --single-version-externally-managed
+[2.169s] running egg_info
+[2.171s] creating ../../build/emo_vision/emo_vision.egg-info
+[2.171s] writing ../../build/emo_vision/emo_vision.egg-info/PKG-INFO
+[2.172s] writing dependency_links to ../../build/emo_vision/emo_vision.egg-info/dependency_links.txt
+[2.172s] writing entry points to ../../build/emo_vision/emo_vision.egg-info/entry_points.txt
+[2.173s] writing requirements to ../../build/emo_vision/emo_vision.egg-info/requires.txt
+[2.173s] writing top-level names to ../../build/emo_vision/emo_vision.egg-info/top_level.txt
+[2.176s] writing manifest file '../../build/emo_vision/emo_vision.egg-info/SOURCES.txt'
+[2.213s] reading manifest file '../../build/emo_vision/emo_vision.egg-info/SOURCES.txt'
+[2.214s] writing manifest file '../../build/emo_vision/emo_vision.egg-info/SOURCES.txt'
+[2.214s] running build
+[2.215s] running build_py
+[2.215s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_vision/build
+[2.215s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_vision/build/lib
+[2.215s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_vision/build/lib/emo_vision
+[2.215s] copying emo_vision/__init__.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_vision/build/lib/emo_vision
+[2.215s] running install
+[2.216s] running install_lib
+[2.218s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_vision/lib/python3.8/site-packages/emo_vision
+[2.218s] copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_vision/build/lib/emo_vision/__init__.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_vision/lib/python3.8/site-packages/emo_vision
+[2.218s] byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_vision/lib/python3.8/site-packages/emo_vision/__init__.py to __init__.cpython-38.pyc
+[2.220s] running install_data
+[2.221s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_vision/share/ament_index
+[2.221s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_vision/share/ament_index/resource_index
+[2.221s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_vision/share/ament_index/resource_index/packages
+[2.221s] copying resource/emo_vision -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_vision/share/ament_index/resource_index/packages
+[2.221s] copying package.xml -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_vision/share/emo_vision
+[2.222s] running install_egg_info
+[2.226s] Copying ../../build/emo_vision/emo_vision.egg-info to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_vision/lib/python3.8/site-packages/emo_vision-0.0.0-py3.8.egg-info
+[2.226s] running install_scripts
+[2.248s] writing list of installed files to '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_vision/install.log'

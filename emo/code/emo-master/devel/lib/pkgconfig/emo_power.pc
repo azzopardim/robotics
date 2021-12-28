@@ -1,0 +1,8 @@
+prefix=/sd/projects/emo1.0/devel
+
+Name: emo_power
+Description: Description of emo_power
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

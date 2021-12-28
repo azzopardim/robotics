@@ -1,0 +1,33 @@
+[1.377s] Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/emo_3dvision': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_3dvision/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/emo_3dvision build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_3dvision/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_3dvision --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_3dvision/install.log --single-version-externally-managed
+[2.303s] running egg_info
+[2.303s] creating ../../build/emo_3dvision/emo_3dvision.egg-info
+[2.304s] writing ../../build/emo_3dvision/emo_3dvision.egg-info/PKG-INFO
+[2.304s] writing dependency_links to ../../build/emo_3dvision/emo_3dvision.egg-info/dependency_links.txt
+[2.304s] writing entry points to ../../build/emo_3dvision/emo_3dvision.egg-info/entry_points.txt
+[2.304s] writing requirements to ../../build/emo_3dvision/emo_3dvision.egg-info/requires.txt
+[2.305s] writing top-level names to ../../build/emo_3dvision/emo_3dvision.egg-info/top_level.txt
+[2.307s] writing manifest file '../../build/emo_3dvision/emo_3dvision.egg-info/SOURCES.txt'
+[2.383s] reading manifest file '../../build/emo_3dvision/emo_3dvision.egg-info/SOURCES.txt'
+[2.385s] writing manifest file '../../build/emo_3dvision/emo_3dvision.egg-info/SOURCES.txt'
+[2.385s] running build
+[2.386s] running build_py
+[2.386s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_3dvision/build
+[2.386s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_3dvision/build/lib
+[2.386s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_3dvision/build/lib/emo_3dvision
+[2.387s] copying emo_3dvision/__init__.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_3dvision/build/lib/emo_3dvision
+[2.387s] running install
+[2.389s] running install_lib
+[2.391s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_3dvision/lib/python3.8/site-packages/emo_3dvision
+[2.391s] copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_3dvision/build/lib/emo_3dvision/__init__.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_3dvision/lib/python3.8/site-packages/emo_3dvision
+[2.392s] byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_3dvision/lib/python3.8/site-packages/emo_3dvision/__init__.py to __init__.cpython-38.pyc
+[2.395s] running install_data
+[2.396s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_3dvision/share/ament_index
+[2.396s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_3dvision/share/ament_index/resource_index
+[2.396s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_3dvision/share/ament_index/resource_index/packages
+[2.397s] copying resource/emo_3dvision -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_3dvision/share/ament_index/resource_index/packages
+[2.397s] copying package.xml -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_3dvision/share/emo_3dvision
+[2.397s] running install_egg_info
+[2.401s] Copying ../../build/emo_3dvision/emo_3dvision.egg-info to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_3dvision/lib/python3.8/site-packages/emo_3dvision-0.0.0-py3.8.egg-info
+[2.406s] running install_scripts
+[2.460s] writing list of installed files to '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_3dvision/install.log'
+[2.533s] Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/emo_3dvision' returned '0': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_3dvision/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/emo_3dvision build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_3dvision/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_3dvision --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_3dvision/install.log --single-version-externally-managed

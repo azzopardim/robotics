@@ -1,0 +1,2 @@
+emo_audio:emo_control:emo_drive:emo_head:emo_kinect:emo_lidar:emo_power:emo_proto:emo_proximity:emo_vision
+-DCATKIN_DEVEL_PREFIX=/sd/projects/emo1.0/devel -DCMAKE_INSTALL_PREFIX=/sd/projects/emo1.0/install -G Unix Makefiles

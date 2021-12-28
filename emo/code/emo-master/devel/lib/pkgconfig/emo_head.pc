@@ -1,0 +1,8 @@
+prefix=/sd/projects/emo1.0/devel
+
+Name: emo_head
+Description: Description of emo_head
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

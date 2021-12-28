@@ -1,0 +1,6 @@
+Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent': /usr/bin/cmake /media/michael/bach_SD_128GB/emo_ws/emo2.0/Micro-XRCE-DDS-Agent -DUAGENT_ISOLATED_INSTALL=OFF -DCMAKE_INSTALL_PREFIX=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/microxrcedds_agent
+Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent' returned '0': /usr/bin/cmake /media/michael/bach_SD_128GB/emo_ws/emo2.0/Micro-XRCE-DDS-Agent -DUAGENT_ISOLATED_INSTALL=OFF -DCMAKE_INSTALL_PREFIX=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/microxrcedds_agent
+Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent': /usr/bin/cmake --build /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent -- -j4 -l4
+Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent' returned '0': /usr/bin/cmake --build /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent -- -j4 -l4
+Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent': /usr/bin/cmake --install /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent
+Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent' returned '0': /usr/bin/cmake --install /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/microxrcedds_agent

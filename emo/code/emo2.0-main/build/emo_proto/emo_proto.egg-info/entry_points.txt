@@ -1,0 +1,3 @@
+[console_scripts]
+proto = emo_proto.emo_proto_publisher:main
+

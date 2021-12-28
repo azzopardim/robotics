@@ -1,0 +1,16 @@
+running egg_info
+writing ../../build/emo_control/emo_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/emo_control/emo_control.egg-info/dependency_links.txt
+writing entry points to ../../build/emo_control/emo_control.egg-info/entry_points.txt
+writing requirements to ../../build/emo_control/emo_control.egg-info/requires.txt
+writing top-level names to ../../build/emo_control/emo_control.egg-info/top_level.txt
+reading manifest file '../../build/emo_control/emo_control.egg-info/SOURCES.txt'
+writing manifest file '../../build/emo_control/emo_control.egg-info/SOURCES.txt'
+running build
+running build_py
+copying emo_control/emo_proto_subscriber.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_control/build/lib/emo_control
+running install
+running install_lib
+copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_control/build/lib/emo_control/emo_proto_subscriber.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/lib/python3.8/site-packages/emo_control
+byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/lib/python3.8/site-packages/emo_control/emo_proto_subscriber.py to emo_proto_subscriber.cpython-38.pyc
+running install_data

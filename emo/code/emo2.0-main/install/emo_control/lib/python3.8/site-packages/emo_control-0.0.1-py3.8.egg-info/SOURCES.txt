@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/emo_control/emo_control.egg-info/PKG-INFO
+../../build/emo_control/emo_control.egg-info/SOURCES.txt
+../../build/emo_control/emo_control.egg-info/dependency_links.txt
+../../build/emo_control/emo_control.egg-info/entry_points.txt
+../../build/emo_control/emo_control.egg-info/requires.txt
+../../build/emo_control/emo_control.egg-info/top_level.txt
+../../build/emo_control/emo_control.egg-info/zip-safe
+emo_control/__init__.py
+emo_control/emo_proto_subscriber.py
+resource/emo_control
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

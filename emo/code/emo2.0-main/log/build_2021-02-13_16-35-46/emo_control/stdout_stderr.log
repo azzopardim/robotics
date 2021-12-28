@@ -1,0 +1,20 @@
+running egg_info
+writing ../../build/emo_control/emo_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/emo_control/emo_control.egg-info/dependency_links.txt
+writing entry points to ../../build/emo_control/emo_control.egg-info/entry_points.txt
+writing requirements to ../../build/emo_control/emo_control.egg-info/requires.txt
+writing top-level names to ../../build/emo_control/emo_control.egg-info/top_level.txt
+reading manifest file '../../build/emo_control/emo_control.egg-info/SOURCES.txt'
+writing manifest file '../../build/emo_control/emo_control.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying resource/emo_control -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/share/ament_index/resource_index/packages
+copying package.xml -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/share/emo_control
+running install_egg_info
+Copying ../../build/emo_control/emo_control.egg-info to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/lib/python3.8/site-packages/emo_control-0.0.1-py3.8.egg-info
+running install_scripts
+Installing control script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/lib/emo_proto
+writing list of installed files to '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_control/install.log'

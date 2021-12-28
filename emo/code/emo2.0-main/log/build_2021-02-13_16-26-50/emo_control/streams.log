@@ -1,0 +1,35 @@
+[1.396s] Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/emo_proto': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/emo_control build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_control/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_control/install.log --single-version-externally-managed
+[2.286s] running egg_info
+[2.287s] creating ../../build/emo_control/emo_proto.egg-info
+[2.287s] writing ../../build/emo_control/emo_proto.egg-info/PKG-INFO
+[2.288s] writing dependency_links to ../../build/emo_control/emo_proto.egg-info/dependency_links.txt
+[2.288s] writing entry points to ../../build/emo_control/emo_proto.egg-info/entry_points.txt
+[2.288s] writing requirements to ../../build/emo_control/emo_proto.egg-info/requires.txt
+[2.288s] writing top-level names to ../../build/emo_control/emo_proto.egg-info/top_level.txt
+[2.291s] writing manifest file '../../build/emo_control/emo_proto.egg-info/SOURCES.txt'
+[2.366s] reading manifest file '../../build/emo_control/emo_proto.egg-info/SOURCES.txt'
+[2.368s] writing manifest file '../../build/emo_control/emo_proto.egg-info/SOURCES.txt'
+[2.368s] running build
+[2.368s] running build_py
+[2.369s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_control/build
+[2.369s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_control/build/lib
+[2.369s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_control/build/lib/emo_proto
+[2.369s] copying emo_proto/__init__.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_control/build/lib/emo_proto
+[2.371s] copying emo_proto/emo_proto_publisher.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_control/build/lib/emo_proto
+[2.372s] running install
+[2.373s] running install_lib
+[2.374s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/lib/python3.8/site-packages/emo_proto
+[2.375s] copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_control/build/lib/emo_proto/__init__.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/lib/python3.8/site-packages/emo_proto
+[2.375s] copying /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_control/build/lib/emo_proto/emo_proto_publisher.py -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/lib/python3.8/site-packages/emo_proto
+[2.389s] byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/lib/python3.8/site-packages/emo_proto/__init__.py to __init__.cpython-38.pyc
+[2.393s] byte-compiling /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/lib/python3.8/site-packages/emo_proto/emo_proto_publisher.py to emo_proto_publisher.cpython-38.pyc
+[2.394s] running install_data
+[2.395s] copying resource/emo_proto -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/share/ament_index/resource_index/packages
+[2.395s] creating /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/share/emo_proto
+[2.395s] copying package.xml -> /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/share/emo_proto
+[2.395s] running install_egg_info
+[2.398s] Copying ../../build/emo_control/emo_proto.egg-info to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/lib/python3.8/site-packages/emo_proto-0.0.1-py3.8.egg-info
+[2.409s] running install_scripts
+[2.494s] Installing control script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/lib/emo_proto
+[2.494s] writing list of installed files to '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_control/install.log'
+[2.661s] Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/emo_proto' returned '0': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/emo_control build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_control/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/emo_control --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/emo_control/install.log --single-version-externally-managed

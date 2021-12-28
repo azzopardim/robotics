@@ -1,0 +1,26 @@
+[0.751s] Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/examples/rclpy/executors': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_executors/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/examples_rclpy_executors build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_executors/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_executors --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_executors/install.log --single-version-externally-managed
+[1.198s] running egg_info
+[1.203s] writing ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/PKG-INFO
+[1.203s] writing dependency_links to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/dependency_links.txt
+[1.203s] writing entry points to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/entry_points.txt
+[1.203s] writing requirements to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/requires.txt
+[1.204s] writing top-level names to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/top_level.txt
+[1.239s] reading manifest file '../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[1.244s] writing manifest file '../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[1.245s] running build
+[1.247s] running build_py
+[1.247s] running install
+[1.251s] running install_lib
+[1.251s] running install_data
+[1.256s] running install_egg_info
+[1.257s] removing '/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_executors/lib/python3.8/site-packages/examples_rclpy_executors-0.9.4-py3.8.egg-info' (and everything under it)
+[1.258s] Copying ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_executors/lib/python3.8/site-packages/examples_rclpy_executors-0.9.4-py3.8.egg-info
+[1.261s] running install_scripts
+[1.284s] Installing callback_group script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[1.284s] Installing composed script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[1.284s] Installing custom_callback_group script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[1.285s] Installing custom_executor script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[1.285s] Installing listener script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[1.285s] Installing talker script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[1.286s] writing list of installed files to '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_executors/install.log'
+[1.765s] Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/examples/rclpy/executors' returned '0': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_executors/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/examples_rclpy_executors build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_executors/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_executors --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_executors/install.log --single-version-externally-managed

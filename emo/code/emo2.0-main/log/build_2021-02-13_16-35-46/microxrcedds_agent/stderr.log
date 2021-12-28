@@ -1,0 +1,14 @@
+Cloning into 'sanitizers'...
+Already on 'master'
+CMake Warning (dev) at cmake/FindASan.cmake:25 (option):
+  Policy CMP0077 is not set: option() honors normal variables.  Run "cmake
+  --help-policy CMP0077" for policy details.  Use the cmake_policy command to
+  set the policy and suppress this warning.
+
+  For compatibility with older versions of CMake, option is clearing the
+  normal variable 'SANITIZE_ADDRESS'.
+Call Stack (most recent call first):
+  cmake/FindSanitizers.cmake:37 (find_package)
+  tests/CMakeLists.txt:52 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+

@@ -1,0 +1,23 @@
+[0.954s] Invoking command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/examples/rclpy/topics/minimal_publisher': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_publisher/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_publisher build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_publisher/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_publisher --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_publisher/install.log --single-version-externally-managed
+[1.412s] running egg_info
+[1.421s] writing ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/PKG-INFO
+[1.422s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/dependency_links.txt
+[1.422s] writing entry points to ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/entry_points.txt
+[1.422s] writing requirements to ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/requires.txt
+[1.422s] writing top-level names to ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/top_level.txt
+[1.460s] reading manifest file '../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[1.462s] writing manifest file '../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[1.462s] running build
+[1.463s] running build_py
+[1.463s] running install
+[1.464s] running install_lib
+[1.467s] running install_data
+[1.468s] running install_egg_info
+[1.473s] removing '/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_publisher/lib/python3.8/site-packages/examples_rclpy_minimal_publisher-0.9.4-py3.8.egg-info' (and everything under it)
+[1.474s] Copying ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_publisher/lib/python3.8/site-packages/examples_rclpy_minimal_publisher-0.9.4-py3.8.egg-info
+[1.476s] running install_scripts
+[1.519s] Installing publisher_local_function script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[1.519s] Installing publisher_member_function script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[1.520s] Installing publisher_old_school script to /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[1.520s] writing list of installed files to '/media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_publisher/install.log'
+[1.604s] Invoked command in '/media/michael/bach_SD_128GB/emo_ws/emo2.0/src/examples/rclpy/topics/minimal_publisher' returned '0': PYTHONPATH=/media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_publisher/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_publisher build --build-base /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_publisher/build install --prefix /media/michael/bach_SD_128GB/emo_ws/emo2.0/install/examples_rclpy_minimal_publisher --record /media/michael/bach_SD_128GB/emo_ws/emo2.0/build/examples_rclpy_minimal_publisher/install.log --single-version-externally-managed
