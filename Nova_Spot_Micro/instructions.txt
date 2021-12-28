@@ -1,0 +1,34 @@
+# Nova Spot Micro
+
+Software Guide
+1. Install Git and clone repository
+2. Copy libraries to the Arduino libraries folder
+
+# ? Download latest libraries ?
+
+Arduino Software
+3. Install Arduino IDE (on linux use installer not snap because of Tensyduino)
+
+Teensy Software
+4. Download and install Teensyduino
+5. Copy Arduino libraries to arduino/libraries folder
+
+# HAd to remove Wire library as it is already installed
+
+Get the DFRobot/DRRobobotDFPlayerMini from Github
+
+Libraries to install include:
+
+1. Download https://github.com/DFRobot/DFRobot_DF1201S
+2. 
+
+Compiled and uploaded code to Arduino
+Compile and uploaded code to Teensy
+
+Configuring debug mode
+
+
+
+
+
+dwdwdkwnkddd
